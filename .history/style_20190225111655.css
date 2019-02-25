@@ -1,0 +1,25 @@
+/*
+ Theme Name:   Twenty Sixteen Child
+ Description:  Twenty Sixteen Child Theme
+ Author:       Steven Galvez
+ Author URI:   http://vet2dev.com
+ Template:     twentysixteen
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+
+*/
+
+.entry-header {
+    padding: 0 10%;
+  }
+  
+  .entry-title, .widecolumn h2 {
+    font-size: 3.9rem;
+    line-height: 1.2308;
+    margin-bottom: 1.2308em;
+  }
+  
+  .entry-content, .entry-summary {
+    padding: 0 5% 10%;
+  }
+  
